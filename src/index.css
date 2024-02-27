@@ -1,0 +1,5 @@
+.card-shadow {
+  position: relative;
+  z-index: 10;
+  box-shadow: 0 4px 8px 0 rgb(165, 56, 26);
+}
